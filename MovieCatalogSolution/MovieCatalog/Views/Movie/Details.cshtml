@@ -1,0 +1,39 @@
+﻿
+@model MovieViewModel
+
+@{
+    string Genre = "";
+
+    string Cast = "";
+}
+
+@foreach (var member in @Model.Genre)
+{
+    Genre += member + ", ";
+}
+
+@foreach (var member in @Model.Cast)
+{
+    Cast += member + ", ";
+}
+
+
+
+<div class="container body-content">
+    <h1>Movie Details</h1>
+
+    <div class="products">
+        <div class="thumbnail">
+            <div class="half">
+                <img class="product-image" src="~/images/Movies/movie-@(Model.Id).jpg" />
+            </div>
+            <div class="caption">
+                <h3>@Model.Title</h3>
+                <p>@Genre</p>
+                <p>@Cast</p>
+                <p><strong>Release Date:</strong><br /> @Model.ReleaseDate.ToShortDateString()</p>
+                <p><strong>Description:</strong><br /> @Model.Description </p>
+            </div>
+        </div>
+    </div>
+</div>

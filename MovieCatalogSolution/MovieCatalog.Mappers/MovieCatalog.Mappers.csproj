@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieCatalog.Domain\MovieCatalog.Domain.csproj" />
+    <ProjectReference Include="..\MovieCatalog.ViewModels\MovieCatalog.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

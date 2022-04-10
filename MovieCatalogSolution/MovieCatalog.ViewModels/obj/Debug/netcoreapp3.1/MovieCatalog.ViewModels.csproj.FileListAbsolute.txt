@@ -1,0 +1,15 @@
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.deps.json
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfo.cs
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CopyComplete

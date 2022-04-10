@@ -1,0 +1,63 @@
+﻿@model MovieViewModel
+
+<h2>Register</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-action="AddMovie" asp-controller="Movie" method="post">
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Title"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Title" placeholder="Movie Title" />
+                        </div>
+                        <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ReleaseDate"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ReleaseDate" placeholder="Release Date" />
+                        </div>
+                        <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Genre"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-envelope"></span></span>
+                            <input class="form-control" type="email" asp-for="Genre" placeholder="Genre" />
+                        </div>
+                        <span asp-validation-for="Genre" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Description"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-home"></span></span>
+                            <input class="form-control" type="text" asp-for="Description" placeholder="Description" />
+                        </div>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-5"></div>
+                    <div class="col-md-2">
+                        <button type="submit" class="btn btn-success">Add Movie</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
