@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/S5E8eBxacegWN8CogSZyyrZl+vQGcgiP4bK4RFCylYcAGzRaR2cxzthJ7x6Gaa7b1GOWIBZmN+dbR7XKY7MA==",
+  "dgSpecHash": "N6fZzojHp1ZHIcaIUIsHmKEGVYSystU+uvzqyuIoO2TSc1IGAI6DnM0K+9Y15Xo9rE6vehcXJmYYBKjvZ5PJZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog\\MovieCatalog.csproj",
+  "projectFilePath": "G:\\My Documents\\Seavus\\GitHub\\SpringBoard\\MovieCatalogSolution\\MovieCatalog\\MovieCatalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darko\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Darko\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

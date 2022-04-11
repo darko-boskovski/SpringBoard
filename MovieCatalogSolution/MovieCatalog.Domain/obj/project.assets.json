@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
+      "projectUniqueName": "G:\\My Documents\\Seavus\\GitHub\\SpringBoard\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
       "projectName": "MovieCatalog.Domain",
-      "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
+      "projectPath": "G:\\My Documents\\Seavus\\GitHub\\SpringBoard\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
       "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\obj\\",
+      "outputPath": "G:\\My Documents\\Seavus\\GitHub\\SpringBoard\\MovieCatalogSolution\\MovieCatalog.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -60,8 +60,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj": {
-              "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj"
+            "G:\\My Documents\\Seavus\\GitHub\\SpringBoard\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj": {
+              "projectPath": "G:\\My Documents\\Seavus\\GitHub\\SpringBoard\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj"
             }
           }
         }

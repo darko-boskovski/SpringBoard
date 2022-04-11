@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pxL0KFwi7FsCgFMwssx9yXYimG+H4x7vRYK7gjHp7lMGYZe70g7X8CD6Cjf3NqAGNZxvWfyGCXyCdFaP872x9g==",
+  "dgSpecHash": "qTpSeqLfRj23TF5vhTX1O6lht9vmH+nJSkgtt4SdmY7uOhlz6EqtWBlrFK7DfiGp5MaJ/JsA+ig7RBtBskFlVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj",
+  "projectFilePath": "G:\\My Documents\\Seavus\\GitHub\\SpringBoard\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darko\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Darko\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
