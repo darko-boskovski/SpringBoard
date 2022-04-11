@@ -16,7 +16,6 @@ namespace MovieCatalog.Mappers
                 Title = movieModel.Title,
                 Description = movieModel.Description,
                 ReleaseDate = movieModel.ReleaseDate.Date,
-                UserId = movieModel.UserId,
 
             };
         }
@@ -30,8 +29,6 @@ namespace MovieCatalog.Mappers
                 Title = movie.Title,
                 Description = movie.Description,
                 ReleaseDate = movie.ReleaseDate.Date,
-                UserId = movie.UserId,
-                User = movie.User
 
             };
         }
@@ -42,25 +39,12 @@ namespace MovieCatalog.Mappers
 
 
             movieModel.Cast = new List<string>();
-            foreach (var item in movieModel.MoviePeople)
-            {
-                movieModel.Cast.Add(item.Person.FirstName + " " + item.Person.LastName);
-            }
 
             movie.Title = movieModel.Title;
             movie.Description = movieModel.Description;
             movie.ReleaseDate = movieModel.ReleaseDate.Date;
-            foreach (var item in movieModel.Genres)
-            {
-                movie.Genres.Add(item);
-            }
-            movie.UserId = movieModel.UserId;
-            movie.User = user;
-            foreach (var item in movieModel.MoviePeople)
-            {
-                movie.MoviePeople.Add(item);
-            }
 
+           
 
             return movie;
 

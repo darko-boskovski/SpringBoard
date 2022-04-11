@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj": {}
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj": {
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj",
         "projectName": "MovieCatalog.DataAccess",
-        "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
         "projectName": "MovieCatalog.Domain",
-        "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
+        "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -118,8 +118,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj": {
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj",
+        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj",
         "projectName": "MovieCatalog.Helpers",
-        "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj",
+        "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Helpers\\MovieCatalog.Helpers.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Helpers\\obj\\",
+        "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -181,11 +181,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj"
               },
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj": {
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj",
+        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj",
         "projectName": "MovieCatalog.Mappers",
-        "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj",
+        "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Mappers\\obj\\",
+        "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Mappers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -253,11 +253,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj"
               },
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj"
               }
             }
           }
@@ -290,14 +290,14 @@
         }
       }
     },
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj": {
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj",
         "projectName": "MovieCatalog.Services",
-        "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj",
+        "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Services\\MovieCatalog.Services.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Services\\obj\\",
+        "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -319,14 +319,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj"
               },
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Mappers\\MovieCatalog.Mappers.csproj"
               },
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj"
               }
             }
           }
@@ -340,6 +340,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -359,14 +365,14 @@
         }
       }
     },
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj": {
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj",
         "projectName": "MovieCatalog.Shared",
-        "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj",
+        "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\MovieCatalog.Shared.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -418,14 +424,14 @@
         }
       }
     },
-    "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj": {
+    "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj",
         "projectName": "MovieCatalog.ViewModels",
-        "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj",
+        "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\MovieCatalog.ViewModels.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -447,8 +453,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
-                "projectPath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj"
+              "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.Domain\\MovieCatalog.Domain.csproj"
               }
             }
           }

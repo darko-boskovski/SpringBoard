@@ -8,3 +8,33 @@ C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.S
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.deps.json
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.csproj.AssemblyReference.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.AssemblyInfoInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.AssemblyInfo.cs
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.deps.json
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.AssemblyInfo.cs
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.deps.json
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.AssemblyInfo.cs
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Shared\obj\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb

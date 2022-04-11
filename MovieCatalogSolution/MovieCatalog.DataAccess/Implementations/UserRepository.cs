@@ -19,10 +19,11 @@ namespace MovieCatalog.DataAccess.Implementations
         }
 
 
-        public void Add(User entity)
+        public User Add(User entity)
         {
             _movieCatalogDbContext.Users.Add(entity);
             _movieCatalogDbContext.SaveChanges();
+            return entity;
         }
 
         public void Delete(User entity)
@@ -35,7 +36,6 @@ namespace MovieCatalog.DataAccess.Implementations
         {
             return _movieCatalogDbContext
                .Users
-               .Include(x => x.Movies)
                .ToList();
         }
 
@@ -43,7 +43,6 @@ namespace MovieCatalog.DataAccess.Implementations
         {
             return _movieCatalogDbContext
              .Users
-             .Include(x => x.Movies)
              .FirstOrDefault(x => x.Id == id);
         }
 

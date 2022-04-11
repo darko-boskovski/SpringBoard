@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MovieCatalog.Domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -8,7 +9,7 @@ namespace MovieCatalog.DataAccess.Interfaces
     {
         List<T> GetAll();
         T GetById(int id);
-        void Add(T entity);
+        T Add(T entity);
         void Delete(T entity);
         void Update(T entity);
     }

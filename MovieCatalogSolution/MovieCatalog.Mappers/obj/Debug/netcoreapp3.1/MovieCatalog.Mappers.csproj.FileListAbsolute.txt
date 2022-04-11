@@ -15,3 +15,54 @@ C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.M
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.CopyComplete
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.deps.json
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.AssemblyReference.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.AssemblyInfoInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.AssemblyInfo.cs
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.CopyComplete
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.deps.json
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.AssemblyInfo.cs
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.CopyComplete
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.deps.json
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.AssemblyInfo.cs
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.csproj.CopyComplete
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Mappers\obj\Debug\netcoreapp3.1\MovieCatalog.Mappers.pdb

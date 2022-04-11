@@ -1,4 +1,5 @@
-﻿using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.IdentityModel.Tokens;
 using MovieCatalog.DataAccess.Interfaces;
 using MovieCatalog.Domain.Models;
 using MovieCatalog.Mappers;
@@ -21,10 +22,13 @@ namespace MovieCatalog.Services.Implementations
         private IRepository<Movie> _movieRepository;
         private IUserRepository _userRepository;
 
+
+
         public UserService(IRepository<Movie> movieRepository, IUserRepository userRepository)
         {
             _movieRepository = movieRepository;
             _userRepository = userRepository;
+
         }
         public void AddUser(UserViewModel userModel)
         {
@@ -104,24 +108,24 @@ namespace MovieCatalog.Services.Implementations
 
                 JwtSecurityTokenHandler jwtSecurityTokenHandler = new JwtSecurityTokenHandler();
 
-                byte[] secretKeyBytes = Encoding.ASCII.GetBytes("This is my secret key");
+                //byte[] secretKeyBytes = Encoding.ASCII.GetBytes("This is my secret key");
 
-                SecurityTokenDescriptor securityTokenDescriptor = new SecurityTokenDescriptor
-                {
-                    Expires = DateTime.UtcNow.AddDays(7),
+                SecurityTokenDescriptor securityTokenDescriptor = new SecurityTokenDescriptor();
+                //{
+                //    Expires = DateTime.UtcNow.AddDays(7),
 
-                    SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(secretKeyBytes),
-                        SecurityAlgorithms.HmacSha256Signature),
+                //    SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(secretKeyBytes),
+                //        SecurityAlgorithms.HmacSha256Signature),
 
-                    Subject = new ClaimsIdentity(
-                        new[]
-                        {
-                            new Claim(ClaimTypes.Name, userDb.Username),
-                            new Claim(ClaimTypes.NameIdentifier, userDb.Id.ToString()),
-                            new Claim("userFullName", $"{userDb.FirstName} {userDb.LastName}"),
-                        }
-                    )
-                };
+                //    Subject = new ClaimsIdentity(
+                //        new[]
+                //        {
+                //            new Claim(ClaimTypes.Name, userDb.Username),
+                //            new Claim(ClaimTypes.NameIdentifier, userDb.Id.ToString()),
+                //            new Claim("userFullName", $"{userDb.FirstName} {userDb.LastName}"),
+                //        }
+                //    )
+                //};
                 SecurityToken token = jwtSecurityTokenHandler.CreateToken(securityTokenDescriptor);
 
                 string tokenString = jwtSecurityTokenHandler.WriteToken(token);
@@ -226,6 +230,6 @@ namespace MovieCatalog.Services.Implementations
             return _userRepository.GetUserByUsername(username) == null;
         }
 
-
+ 
     }
 }

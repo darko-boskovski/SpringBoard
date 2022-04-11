@@ -16,7 +16,6 @@ namespace MovieCatalog.Domain.Models
         public string Address { get; set; }
         public string Email { get; set; }
         public EnumGenre FavoriteGenre { get; set; }
-        public List<Movie> Movies { get; set; }
         public int Age { get; set; }
     }
 }

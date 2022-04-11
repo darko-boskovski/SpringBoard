@@ -16,6 +16,11 @@ namespace MovieCatalog.DataAccess
 
         public DbSet<Movie> Movies { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Genre> Genres { get; set; }
+        public DbSet<Person> People { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<MoviePerson> MoviePeople { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -39,12 +44,13 @@ namespace MovieCatalog.DataAccess
                 .Property(x => x.FavoriteGenre);
             modelBuilder.Entity<User>()
                .Ignore(x => x.Age);
+            modelBuilder.Entity<User>();
 
 
 
             modelBuilder.Entity<Person>()
-    .Property(x => x.FirstName)
-     .HasMaxLength(50);
+                .Property(x => x.FirstName)
+                    .HasMaxLength(50);
             modelBuilder.Entity<Person>()
                 .Property(x => x.LastName)
                 .HasMaxLength(50);
@@ -79,10 +85,6 @@ namespace MovieCatalog.DataAccess
             modelBuilder.Entity<Movie>()
                 .Property(x => x.ReleaseDate)
                 .HasMaxLength(10);
-            modelBuilder.Entity<Movie>()
-                .HasOne(x => x.User)
-                .WithMany(x => x.Movies)
-                .HasForeignKey(x => x.UserId);
 
 
 
@@ -95,14 +97,20 @@ namespace MovieCatalog.DataAccess
               .WithMany(x => x.Roles)
               .HasForeignKey(x => x.PersonId);
 
-
             modelBuilder.Entity<Genre>()
                 .Property(x => x.GenreType)
                 .HasMaxLength(10);
-            modelBuilder.Entity<Genre>()
+          
+
+
+            modelBuilder.Entity<MovieGenre>()
                 .HasOne(x => x.Movie)
-                .WithMany(x => x.Genres)
+                .WithMany(x => x.Genre)
                 .HasForeignKey(x => x.MovieId);
+            modelBuilder.Entity<MovieGenre>()
+              .HasOne(x => x.Genre)
+              .WithMany(x => x.Movies)
+              .HasForeignKey(x => x.GenreId);
 
 
             modelBuilder.Entity<User>()
@@ -217,7 +225,27 @@ namespace MovieCatalog.DataAccess
                        MovieId = 3,
 
                    });
+            modelBuilder.Entity<MovieGenre>()
+                .HasData(
+                   new MovieGenre()
+                   {
+                       Id = 1,
+                       GenreId = 1,
+                       MovieId = 1,
 
+                   }, new MovieGenre()
+                   {
+                       Id = 2,
+                       GenreId = 2,
+                       MovieId = 2,
+
+                   }, new MovieGenre()
+                   {
+                       Id = 3,
+                       GenreId = 3,
+                       MovieId = 3,
+
+                   });
 
             modelBuilder.Entity<Genre>()
              .HasData(
@@ -225,7 +253,6 @@ namespace MovieCatalog.DataAccess
                      {
                          Id = 1,
                          GenreType = EnumGenre.Action,
-                         MovieId = 1,
 
 
 
@@ -234,7 +261,6 @@ namespace MovieCatalog.DataAccess
                      {
                          Id = 2,
                          GenreType = EnumGenre.Mystery,
-                         MovieId = 2,
 
 
                      },
@@ -242,7 +268,6 @@ namespace MovieCatalog.DataAccess
                       {
                           Id = 3,
                           GenreType = EnumGenre.Comedy,
-                          MovieId = 1,
 
 
                       });
@@ -292,9 +317,9 @@ namespace MovieCatalog.DataAccess
                     Title = "Memento",
                     Description = "A man with short-term memory loss attempts to track down his wife's murderer.",
                     ReleaseDate = DateTime.Parse("May 25, 2001"),
-                    Genres = new List<Genre>(),
+                    Genre = new List<MovieGenre>(),
                     MoviePeople = new List<MoviePerson>(),
-                    UserId = 1,
+
 
 
                 },
@@ -304,9 +329,9 @@ namespace MovieCatalog.DataAccess
                    Title = "Pulp Fiction",
                    Description = "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
                    ReleaseDate = DateTime.Parse("apr 25, 1994"),
-                   Genres = new List<Genre>(),
+                   Genre = new List<MovieGenre>(),
                    MoviePeople = new List<MoviePerson>(),
-                   UserId = 2,
+
                },
                 new Movie()
                 {
@@ -314,9 +339,9 @@ namespace MovieCatalog.DataAccess
                     Title = "Oldboy",
                     Description = "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
                     ReleaseDate = DateTime.Parse("Jan 25, 2003"),
-                    Genres = new List<Genre>(),
+                    Genre = new List<MovieGenre>(),
                     MoviePeople = new List<MoviePerson>(),
-                    UserId = 3,
+
 
                 });
 

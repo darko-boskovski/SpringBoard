@@ -24,6 +24,45 @@ namespace MovieCatalog.Controllers
             return View();
         }
 
+
+        public IActionResult LogIn()
+        {
+            LoginViewModel model = new LoginViewModel();
+            return View(model);
+        }
+        [HttpPost]
+        public IActionResult LogIn(LoginViewModel model)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    Log.Debug("Authenticating user with username {username}:", model.Username);
+                    var user = _userService.Login(model);
+
+                    if (user != "")
+                    {
+                        Log.Debug("User with username {username} succesfully logged in as Admin", model.Username);
+                        return RedirectToAction("index", "home");
+                    }
+                    else
+                    {
+                        Log.Debug("User with username {username} succesfully logged in as Customer", model.Username);
+                        return RedirectToAction("index", "movie");
+                    }
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Log.Error("Message: {message}", ex.Message);
+            }
+            return View();
+        }
+
+
+
+
         public IActionResult Register()
         {
             RegisterViewModel model = new RegisterViewModel();
@@ -39,7 +78,7 @@ namespace MovieCatalog.Controllers
                 {
                     Log.Information($"New user is registered with username: {model.Username}");
                     _userService.Register(model);
-                    return RedirectToAction("products", "product");
+                    return RedirectToAction("index", "movie");
                 }
             }
             catch (Exception ex)

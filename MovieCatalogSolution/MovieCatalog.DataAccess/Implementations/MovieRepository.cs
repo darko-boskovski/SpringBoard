@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace MovieCatalog.DataAccess.Implementations
 {
@@ -18,10 +19,11 @@ namespace MovieCatalog.DataAccess.Implementations
             _movieCatalogDbContext = movieCatalogDbContext;
         }
 
-        public void Add(Movie entity)
+        public Movie Add(Movie entity)
         {
             _movieCatalogDbContext.Movies.Add(entity);
             _movieCatalogDbContext.SaveChanges();
+            return entity;
         }
 
         public void Delete(Movie entity)
@@ -33,7 +35,7 @@ namespace MovieCatalog.DataAccess.Implementations
         public List<Movie> GetAll()
         {
             return _movieCatalogDbContext.Movies
-                 .Include(x => x.Genres)
+                 .Include(x => x.Genre)
                  .Include(x => x.MoviePeople).ThenInclude(x => x.Person)
                  .ToList();
         }
@@ -41,7 +43,7 @@ namespace MovieCatalog.DataAccess.Implementations
         public Movie GetById(int id)
         {
             return _movieCatalogDbContext.Movies
-               .Include(x => x.Genres)
+               .Include(x => x.Genre)
                .FirstOrDefault(x => x.Id == id);
         }
 

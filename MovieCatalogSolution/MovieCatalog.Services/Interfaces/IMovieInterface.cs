@@ -12,5 +12,6 @@ namespace MovieCatalog.Services.Interfaces
         void AddMovie(MovieViewModel movieModel);
         void UpdateMovie(MovieViewModel movieModel);
         void DeleteMovie(int id);
+        void CreateMovieStructure(MovieViewModel movieModel);
     }
 }

@@ -7,8 +7,8 @@ namespace MovieCatalog.Domain.Models
 {
     public class Genre : BaseEntity
     {
-        public int MovieId { get; set; }
-        public Movie Movie { get; set; }
         public EnumGenre GenreType { get; set; }
+        
+        public List<MovieGenre> Movies { get; set; }
     }
 }

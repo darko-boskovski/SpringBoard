@@ -10,7 +10,7 @@ using MovieCatalog.DataAccess;
 namespace MovieCatalog.DataAccess.Migrations
 {
     [DbContext(typeof(MovieCatalogDbContext))]
-    [Migration("20220409171251_init")]
+    [Migration("20220411003232_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,33 +32,25 @@ namespace MovieCatalog.DataAccess.Migrations
                         .HasMaxLength(10)
                         .HasColumnType("int");
 
-                    b.Property<int>("MovieId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
-                    b.HasIndex("MovieId");
-
-                    b.ToTable("Genre");
+                    b.ToTable("Genres");
 
                     b.HasData(
                         new
                         {
                             Id = 1,
-                            GenreType = 2,
-                            MovieId = 1
+                            GenreType = 2
                         },
                         new
                         {
                             Id = 2,
-                            GenreType = 6,
-                            MovieId = 2
+                            GenreType = 6
                         },
                         new
                         {
                             Id = 3,
-                            GenreType = 1,
-                            MovieId = 1
+                            GenreType = 1
                         });
                 });
 
@@ -83,12 +75,7 @@ namespace MovieCatalog.DataAccess.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Movies");
 
@@ -98,24 +85,63 @@ namespace MovieCatalog.DataAccess.Migrations
                             Id = 1,
                             Description = "A man with short-term memory loss attempts to track down his wife's murderer.",
                             ReleaseDate = new DateTime(2001, 5, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Title = "Memento",
-                            UserId = 1
+                            Title = "Memento"
                         },
                         new
                         {
                             Id = 2,
                             Description = "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
                             ReleaseDate = new DateTime(1994, 4, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Title = "Pulp Fiction",
-                            UserId = 2
+                            Title = "Pulp Fiction"
                         },
                         new
                         {
                             Id = 3,
                             Description = "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
                             ReleaseDate = new DateTime(2003, 1, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Title = "Oldboy",
-                            UserId = 3
+                            Title = "Oldboy"
+                        });
+                });
+
+            modelBuilder.Entity("MovieCatalog.Domain.Models.MovieGenre", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<int>("GenreId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("MovieId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("GenreId");
+
+                    b.HasIndex("MovieId");
+
+                    b.ToTable("MovieGenre");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            GenreId = 1,
+                            MovieId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            GenreId = 2,
+                            MovieId = 2
+                        },
+                        new
+                        {
+                            Id = 3,
+                            GenreId = 3,
+                            MovieId = 3
                         });
                 });
 
@@ -138,7 +164,7 @@ namespace MovieCatalog.DataAccess.Migrations
 
                     b.HasIndex("PersonId");
 
-                    b.ToTable("MoviePerson");
+                    b.ToTable("MoviePeople");
 
                     b.HasData(
                         new
@@ -186,7 +212,7 @@ namespace MovieCatalog.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Person");
+                    b.ToTable("People");
 
                     b.HasData(
                         new
@@ -233,7 +259,7 @@ namespace MovieCatalog.DataAccess.Migrations
 
                     b.HasIndex("PersonId");
 
-                    b.ToTable("Role");
+                    b.ToTable("Roles");
 
                     b.HasData(
                         new
@@ -272,6 +298,9 @@ namespace MovieCatalog.DataAccess.Migrations
                     b.Property<string>("Address")
                         .HasMaxLength(150)
                         .HasColumnType("nvarchar(150)");
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("FavoriteGenre")
                         .HasColumnType("int");
@@ -344,26 +373,23 @@ namespace MovieCatalog.DataAccess.Migrations
                         });
                 });
 
-            modelBuilder.Entity("MovieCatalog.Domain.Models.Genre", b =>
+            modelBuilder.Entity("MovieCatalog.Domain.Models.MovieGenre", b =>
                 {
+                    b.HasOne("MovieCatalog.Domain.Models.Genre", "Genre")
+                        .WithMany("Movies")
+                        .HasForeignKey("GenreId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("MovieCatalog.Domain.Models.Movie", "Movie")
-                        .WithMany("Genres")
+                        .WithMany("Genre")
                         .HasForeignKey("MovieId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("Genre");
+
                     b.Navigation("Movie");
-                });
-
-            modelBuilder.Entity("MovieCatalog.Domain.Models.Movie", b =>
-                {
-                    b.HasOne("MovieCatalog.Domain.Models.User", "User")
-                        .WithMany("Movies")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("MovieCatalog.Domain.Models.MoviePerson", b =>
@@ -396,9 +422,14 @@ namespace MovieCatalog.DataAccess.Migrations
                     b.Navigation("Person");
                 });
 
+            modelBuilder.Entity("MovieCatalog.Domain.Models.Genre", b =>
+                {
+                    b.Navigation("Movies");
+                });
+
             modelBuilder.Entity("MovieCatalog.Domain.Models.Movie", b =>
                 {
-                    b.Navigation("Genres");
+                    b.Navigation("Genre");
 
                     b.Navigation("MoviePeople");
                 });
@@ -408,11 +439,6 @@ namespace MovieCatalog.DataAccess.Migrations
                     b.Navigation("Movies");
 
                     b.Navigation("Roles");
-                });
-
-            modelBuilder.Entity("MovieCatalog.Domain.Models.User", b =>
-                {
-                    b.Navigation("Movies");
                 });
 #pragma warning restore 612, 618
         }

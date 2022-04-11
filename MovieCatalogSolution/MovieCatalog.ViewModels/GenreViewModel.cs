@@ -9,8 +9,7 @@ namespace MovieCatalog.ViewModels
     public class GenreViewModel
     {
         public int Id { get; set; }
-        public int MovieId { get; set; }
-        public Movie Movie { get; set; }
+        public List<GenreViewModel> Movies { get; set; }
         public EnumGenre GenreType { get; set; }
     }
 }

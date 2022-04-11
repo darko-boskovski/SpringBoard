@@ -16,3 +16,57 @@ C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.D
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CopyComplete
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.genruntimeconfig.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.deps.json
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.json
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.dev.json
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfo.cs
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CopyComplete
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.genruntimeconfig.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.deps.json
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.json
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.dev.json
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfo.cs
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CopyComplete
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.genruntimeconfig.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.deps.json
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.json
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.dev.json
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfo.cs
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CopyComplete
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.genruntimeconfig.cache

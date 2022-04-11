@@ -9,10 +9,7 @@ namespace MovieCatalog.Domain.Models
         public string Title { get; set; }
         public string Description { get; set; }
         public DateTime ReleaseDate { get; set; }
-
-        public List<Genre> Genres { get; set; }
-        public int UserId { get; set; }
-        public User User { get; set; }
+        public List<MovieGenre> Genre { get; set; }
 
         public List<MoviePerson> MoviePeople { get; set; }
     }

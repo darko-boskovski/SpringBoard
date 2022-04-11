@@ -19,11 +19,13 @@ namespace MovieCatalog.Controllers
     {
 
         private IMovieInterface _movieService;
+        private IGenreService _genreService;
 
-        public MovieController(IMovieInterface movieService)
+        public MovieController(IMovieInterface movieService, IGenreService genreService)
 
         {
             _movieService = movieService;
+            _genreService = genreService;
         }
 
         // GET: MovieController
@@ -70,6 +72,7 @@ namespace MovieCatalog.Controllers
         {
 
             MovieViewModel model = new MovieViewModel();
+            model.GenresViewModel = _genreService.GetAllGenres();
             return View(model);
 
         }
@@ -84,8 +87,8 @@ namespace MovieCatalog.Controllers
                 if (ModelState.IsValid)
                 {
                     Log.Information($"Movie is registered with the title: {movieModel.Title}");
-                    _movieService.AddMovie(movieModel);
-                    return RedirectToAction("Home", "index");
+                    _movieService.CreateMovieStructure(movieModel);
+                    return RedirectToAction("Index", "Movie");
                 }
             }
             catch (Exception ex)

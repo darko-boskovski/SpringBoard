@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twxrDoRLAdSD+s41B8qIj+lCLH0puTK+3uJgc/wgGMdkUXHru9LJtIlaoCbKEJUhbSGfeypohfF5GxsP4cHJKQ==",
+  "dgSpecHash": "v4XLtXfvbl1lIOwM+Znqog2/T5eO1HNtZ3XVfaOCX4N8IRh7Gyki82iQQLGiEMSNvYwaysiMv2qAYqVEztveew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darko\\Desktop\\ASP.NET MVC  HomeWork\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Darko\\Desktop\\New folder (3)\\MovieCatalogSolution\\MovieCatalog.DataAccess\\MovieCatalog.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darko\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Darko\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

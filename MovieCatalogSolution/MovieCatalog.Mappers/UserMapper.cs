@@ -20,7 +20,6 @@ namespace MovieCatalog.Mappers
                 Address = userModel.Address,
                 Age = userModel.Age,
                 FavoriteGenre = userModel.FavoriteGenre,
-                Movies = new List<Movie>(),
 
             };
         }
@@ -48,8 +47,8 @@ namespace MovieCatalog.Mappers
             user.Username = userModel.Username;
             user.Address = userModel.Address;
             user.Age = userModel.Age;
-            user.Movies = new List<Movie>();
-            user.Movies.Add(movie);
+
+
 
             return user;
 

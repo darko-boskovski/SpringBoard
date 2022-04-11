@@ -7,10 +7,10 @@
     string Cast = "";
 }
 
-@foreach (var member in @Model.Genre)
+@*@foreach (var member in @Model.Genre)
 {
     Genre += member + ", ";
-}
+}*@
 
 @foreach (var member in @Model.Cast)
 {
@@ -19,20 +19,20 @@
 
 
 
-<div class="container body-content">
-    <h1>Movie Details</h1>
+<div class="container body-content ">
+    <h3>Movie Details</h3>
 
     <div class="products">
-        <div class="thumbnail">
+        <div  id ="single-card" class="">
             <div class="half">
-                <img class="product-image" src="~/images/Movies/movie-@(Model.Id).jpg" />
+                <img class="" src="~/images/Movies/movie-@(Model.Id).jpg" />
             </div>
             <div class="caption">
                 <h3>@Model.Title</h3>
-                <p>@Genre</p>
-                <p>@Cast</p>
-                <p><strong>Release Date:</strong><br /> @Model.ReleaseDate.ToShortDateString()</p>
-                <p><strong>Description:</strong><br /> @Model.Description </p>
+                <h7>@Genre</h7>
+                <h7>@Cast</h7>
+                <h7><strong>Release Date:</strong><br /> @Model.ReleaseDate.ToShortDateString()</h7>
+                <h7><strong>Description:</strong><br /> @Model.Description </h7>
             </div>
         </div>
     </div>

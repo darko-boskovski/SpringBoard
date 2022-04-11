@@ -13,3 +13,48 @@ C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.V
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
 C:\Users\Darko\Desktop\ASP.NET MVC  HomeWork\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CopyComplete
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.deps.json
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfo.cs
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CopyComplete
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Blagojcho\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.deps.json
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfo.cs
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CopyComplete
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.deps.json
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfo.cs
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CopyComplete
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MovieCatalog.ViewModels
 {
-    class MoviePersonViewModel
+    public class MoviePersonViewModel
     {
         public int Id { get; set; }
         public int PersonId { get; set; }

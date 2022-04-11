@@ -19,13 +19,25 @@ namespace MovieCatalog.Helpers
             services.AddDbContext<MovieCatalogDbContext>
                 (options => options.UseSqlServer(connectionString));
 
+
+
+
+
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IRepository<Movie>, MovieRepository>();
+            services.AddTransient<IRepository<Genre>, GenreRepository>();
+            services.AddTransient<IRepository<Person>, PersonRepository>();
+            services.AddTransient<IRepository<Role>, RoleRepository>();
+            services.AddTransient<IRepository<MoviePerson>, MoviePersonRepository>();
+
+
 
             services.AddTransient<IUserInterface, UserService>();
             services.AddTransient<IMovieInterface, MovieService>();
-
-
+            services.AddTransient<IGenreService, GenreService>();
+            services.AddTransient<IPersonService, PersonService>();
+            services.AddTransient<IRoleInterface, RoleService>();
+            services.AddTransient<IMoviePersonInterface, MoviePersonService>();
 
             return services;
         }

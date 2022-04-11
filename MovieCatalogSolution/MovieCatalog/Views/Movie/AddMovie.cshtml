@@ -31,12 +31,8 @@
                 <div class="row">
                     <div class="col-md-2"></div>
                     <div class="col-md-4">
-                        <label asp-for="Genre"></label>
-                        <div class="input-group">
-                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-envelope"></span></span>
-                            <input class="form-control" type="email" asp-for="Genre" placeholder="Genre" />
-                        </div>
-                        <span asp-validation-for="Genre" class="text-danger"></span>
+                        <span class="input-group-addon">@Html.LabelFor(x => x.Genre)</span>
+                        @Html.DropDownList($"model.Genre", Html.GetEnumSelectList(Model.Genre.GetType()), new { @class = "form-control" })
                     </div>
                 </div>
                 <div class="row">
@@ -51,12 +47,197 @@
                     </div>
                 </div>
                 <br />
+                <br />
+                Direcor:
                 <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Director.FirstName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Director.FirstName" placeholder="Director Name" />
+                        </div>
+                        <span asp-validation-for="Director.FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Director.LastName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Director.LastName" placeholder="Director Surname" />
+                        </div>
+                        <span asp-validation-for="Director.LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Director.Biography"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Director.Biography" placeholder="Director Biography" />
+                        </div>
+                        <span asp-validation-for="Director.Biography" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Director.Age"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Director.Age" placeholder="Director Age" />
+                        </div>
+                        <span asp-validation-for="Director.Age" class="text-danger"></span>
+                    </div>
+                </div>
+
+                Producer:
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Producer.FirstName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Producer.FirstName" placeholder="Producer Name" />
+                        </div>
+                        <span asp-validation-for="Producer.FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Producer.LastName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Producer.LastName" placeholder="Producer Surname" />
+                        </div>
+                        <span asp-validation-for="Producer.LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Producer.Biography"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Producer.Biography" placeholder="Producer Biography" />
+                        </div>
+                        <span asp-validation-for="Producer.Biography" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Producer.Age"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Director.Age" placeholder="Producer Age" />
+                        </div>
+                        <span asp-validation-for="Producer.Age" class="text-danger"></span>
+                    </div>
+                </div>
+
+                First actor:
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorOne.FirstName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorOne.FirstName" placeholder="ActorOne Name" />
+                        </div>
+                        <span asp-validation-for="ActorOne.FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorOne.LastName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorOne.LastName" placeholder="ActorOne Surname" />
+                        </div>
+                        <span asp-validation-for="ActorOne.LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorOne.Biography"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorOne.Biography" placeholder="ActorOne Biography" />
+                        </div>
+                        <span asp-validation-for="ActorOne.Biography" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorOne.Age"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorOne.Age" placeholder="ActorOne Age" />
+                        </div>
+                        <span asp-validation-for="ActorOne.Age" class="text-danger"></span>
+                    </div>
+                </div>
+                Second actor:
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorTwo.FirstName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorTwo.FirstName" placeholder="ActorTwo Name" />
+                        </div>
+                        <span asp-validation-for="ActorTwo.FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorTwo.LastName"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorTwo.LastName" placeholder="ActorTwo Surname" />
+                        </div>
+                        <span asp-validation-for="ActorTwo.LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorTwo.Biography"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorTwo.Biography" placeholder="ActorTwo Biography" />
+                        </div>
+                        <span asp-validation-for="ActorTwo.Biography" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row navbar-right">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="ActorTwo.Age"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="ActorTwo.Age" placeholder="ActorTwo Age" />
+                        </div>
+                        <span asp-validation-for="ActorTwo.Age" class="text-danger"></span>
+                    </div>
+                </div>
+                <br />
+                <div class="row navbar-right">
                     <div class="col-md-5"></div>
                     <div class="col-md-2">
                         <button type="submit" class="btn btn-success">Add Movie</button>
                     </div>
                 </div>
+                <br />
             </form>
         </div>
     </div>
