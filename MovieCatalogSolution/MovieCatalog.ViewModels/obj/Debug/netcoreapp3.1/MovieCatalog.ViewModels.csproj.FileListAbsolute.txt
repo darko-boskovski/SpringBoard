@@ -58,3 +58,18 @@ C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewMode
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CopyComplete
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.deps.json
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.AssemblyReference.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfoInputs.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.AssemblyInfo.cs
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CoreCompileInputs.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.csproj.CopyComplete
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.ViewModels\obj\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb

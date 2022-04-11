@@ -16,6 +16,8 @@ namespace MovieCatalog.Mappers
                 Title = movieModel.Title,
                 Description = movieModel.Description,
                 ReleaseDate = movieModel.ReleaseDate.Date,
+                MoviePeople = movieModel.MoviePerson,
+                Genre = movieModel.MovieGenre
 
             };
         }
@@ -29,6 +31,8 @@ namespace MovieCatalog.Mappers
                 Title = movie.Title,
                 Description = movie.Description,
                 ReleaseDate = movie.ReleaseDate.Date,
+                MoviePerson = movie.MoviePeople,
+                MovieGenre = movie.Genre
 
             };
         }

@@ -2,6 +2,15 @@
 
 @model List<MovieViewModel>
 
+@{
+
+    string genreString = "";
+
+    string castString = "";
+}
+
+
+
 <div class="container body-content">
     <h3>Movies</h3>
 
@@ -14,8 +23,7 @@
                 </div>
                 <div class="caption">
                     <h3>@movie.Title</h3>
-                    @*<p>@movie.Genre</p>*@
-                    <p>@movie.Cast </p>
+                    <p><strong>Genre:</strong><br /> @movie.MovieGenre.Select(x => x.Genre.GenreType.ToString()).SingleOrDefault()</p>
                     <p><strong>Release Date:</strong><br /> @movie.ReleaseDate.ToShortDateString()</p>
                     <p><strong>Description:</strong><br /> @movie.Description </p>
                 </div>

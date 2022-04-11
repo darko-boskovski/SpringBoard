@@ -70,3 +70,21 @@ C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAcce
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.genruntimeconfig.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.deps.json
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.json
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.runtimeconfig.dev.json
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.AssemblyReference.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfoInputs.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.AssemblyInfo.cs
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CoreCompileInputs.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.csproj.CopyComplete
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.DataAccess\obj\Debug\netcoreapp3.1\MovieCatalog.DataAccess.genruntimeconfig.cache

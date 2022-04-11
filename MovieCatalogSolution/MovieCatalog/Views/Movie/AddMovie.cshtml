@@ -1,6 +1,6 @@
 ﻿@model MovieViewModel
 
-<h2>Register</h2>
+<h2>Add Movie</h2>
 
 <div class="container">
     <div class="row">
@@ -28,12 +28,14 @@
                         <span asp-validation-for="ReleaseDate" class="text-danger"></span>
                     </div>
                 </div>
+                <label asp-for="Genre"></label>
                 <div class="row">
                     <div class="col-md-2"></div>
                     <div class="col-md-4">
                         <span class="input-group-addon">@Html.LabelFor(x => x.Genre)</span>
                         @Html.DropDownList($"model.Genre", Html.GetEnumSelectList(Model.Genre.GetType()), new { @class = "form-control" })
                     </div>
+                    <span asp-validation-for="Genre" class="text-danger"></span>
                 </div>
                 <div class="row">
                     <div class="col-md-2"></div>

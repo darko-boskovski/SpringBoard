@@ -21,5 +21,10 @@ namespace MovieCatalog.ViewModels
         public List<GenreViewModel> GenresViewModel { get; set; }
         public List<string> Cast { get; set; }
         public List<MovieGenreViewModel> Genres { get; set; }
+
+
+        public List<MovieGenre> MovieGenre { get; set; }
+        public List<MoviePerson> MoviePerson { get; set; }
+
     }
 }

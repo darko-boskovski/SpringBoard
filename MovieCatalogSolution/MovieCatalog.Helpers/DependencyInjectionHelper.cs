@@ -29,6 +29,7 @@ namespace MovieCatalog.Helpers
             services.AddTransient<IRepository<Person>, PersonRepository>();
             services.AddTransient<IRepository<Role>, RoleRepository>();
             services.AddTransient<IRepository<MoviePerson>, MoviePersonRepository>();
+            services.AddTransient<IRepository<MovieGenre>, MovieGenreRepository>();
 
 
 
@@ -38,6 +39,7 @@ namespace MovieCatalog.Helpers
             services.AddTransient<IPersonService, PersonService>();
             services.AddTransient<IRoleInterface, RoleService>();
             services.AddTransient<IMoviePersonInterface, MoviePersonService>();
+            services.AddTransient<IMovieGenreInterface, MovieGenreService>();
 
             return services;
         }

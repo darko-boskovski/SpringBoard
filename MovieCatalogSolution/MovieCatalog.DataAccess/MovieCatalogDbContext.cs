@@ -20,6 +20,7 @@ namespace MovieCatalog.DataAccess
         public DbSet<Person> People { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<MoviePerson> MoviePeople { get; set; }
+        public DbSet<MovieGenre> MovieGenre { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

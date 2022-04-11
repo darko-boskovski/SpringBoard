@@ -95,6 +95,7 @@ namespace MovieCatalog.Controllers
             {
 
                 Log.Error($"Message: {ex.Message}");
+                return RedirectToAction("Index", "Home");
             }
             return View(movieModel);
 

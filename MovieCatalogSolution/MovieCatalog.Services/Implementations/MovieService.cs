@@ -21,17 +21,19 @@ namespace MovieCatalog.Services.Implementations
         private IRoleInterface _roleService;
         private IMoviePersonInterface _moviePersonService;
         private IGenreService _genreService;
+        private IMovieGenreInterface _movieGenreService;
 
         public MovieService(IRepository<Movie> movieRepository, IUserRepository userRepository, IPersonService personService,IRoleInterface roleService,
-            IMoviePersonInterface moviePersonService, IGenreService genreService)
+            IMoviePersonInterface moviePersonService, IGenreService genreService, IMovieGenreInterface movieGenreService)
         {
             _movieRepository = movieRepository;
             _userRepository = userRepository;
             _personService = personService;
             _roleService = roleService;
-            _moviePersonService = moviePersonService;
+            _moviePersonService = moviePersonService;       
             _genreService = genreService;
-    }
+            _movieGenreService = movieGenreService;
+        }
 
 
 
@@ -52,10 +54,6 @@ namespace MovieCatalog.Services.Implementations
         public void CreateMovieStructure(MovieViewModel movieModel)
         {
             //create movie
-            User user = new User();
-            user.Id++;
-
-
 
             Movie movie = movieModel.ToMovie();
 
@@ -63,26 +61,35 @@ namespace MovieCatalog.Services.Implementations
 
 
 
-
-
-
             //fetch genres and create MovieGenre
 
-
             Genre genre = new Genre();
-
-
             genre.GenreType = movieModel.Genre;
+
+            if (genre.GenreType == 0) {
+                genre.GenreType = (EnumGenre)new Random().Next(1, 7);                                  
+            }
 
             _genreService.AddGenre(genre);
 
-           
+
+            MovieGenre movieGenre = new MovieGenre();
+            movieGenre.GenreId = genre.Id;
+            movieGenre.MovieId = movie.Id;
+            _movieGenreService.Add(movieGenre);
+
+
+
+
+
+
+
 
             //create director
             Person person = new Person();
             person.FirstName = movieModel.Director.FirstName;
             person.LastName = movieModel.Director.LastName;
-            person.Age = movieModel.Director.Age;
+                person.Age = movieModel.Director.Age;
             person.Biography = movieModel.Director.Biography;
             person = _personService.AddPerson(person);
 
@@ -226,8 +233,6 @@ namespace MovieCatalog.Services.Implementations
                 var data = _movieRepository.GetAll();
 
                 MovieViewModel viewMovie = movieDb.ToMovieModel();
-
-                //viewMovie.Genres = movieDb.Genres.Select(x => x.Genre.GenreType.ToString()).ToList();
 
                 viewMovie.Cast = movieDb.MoviePeople.Select(x => x.Person.FirstName).ToList();
 

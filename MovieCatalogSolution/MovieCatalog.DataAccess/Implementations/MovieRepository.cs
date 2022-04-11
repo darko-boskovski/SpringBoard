@@ -35,15 +35,18 @@ namespace MovieCatalog.DataAccess.Implementations
         public List<Movie> GetAll()
         {
             return _movieCatalogDbContext.Movies
-                 .Include(x => x.Genre)
-                 .Include(x => x.MoviePeople).ThenInclude(x => x.Person)
-                 .ToList();
+             .Include(x => x.Genre)
+             .ThenInclude(x => x.Genre)
+             .Include(x => x.MoviePeople)
+             .ThenInclude(x => x.Person)
+             .ToList();
         }
 
         public Movie GetById(int id)
         {
             return _movieCatalogDbContext.Movies
                .Include(x => x.Genre)
+               .Include(x => x.MoviePeople)
                .FirstOrDefault(x => x.Id == id);
         }
 

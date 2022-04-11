@@ -82,3 +82,24 @@ C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Services
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.csproj.CopyComplete
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.dll
 C:\Users\Darko\Desktop\New folder (3)\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Services.deps.json
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Services.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Services.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.DataAccess.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Mappers.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.ViewModels.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Domain.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\bin\Debug\netcoreapp3.1\MovieCatalog.Shared.pdb
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.csproj.AssemblyReference.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.AssemblyInfoInputs.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.AssemblyInfo.cs
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.csproj.CoreCompileInputs.cache
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.csproj.CopyComplete
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.dll
+G:\My Documents\Seavus\GitHub\SpringBoard\MovieCatalogSolution\MovieCatalog.Services\obj\Debug\netcoreapp3.1\MovieCatalog.Services.pdb

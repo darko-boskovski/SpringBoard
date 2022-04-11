@@ -2,36 +2,48 @@
 @model MovieViewModel
 
 @{
-    string Genre = "";
 
-    string Cast = "";
+    string genreString = "";
+
+    string name = "";
+
+    string bio = "";
+
+    string role = "";
+
 }
 
-@*@foreach (var member in @Model.Genre)
+@foreach (var member in @Model.MovieGenre)
 {
-    Genre += member + ", ";
-}*@
-
-@foreach (var member in @Model.Cast)
-{
-    Cast += member + ", ";
+    genreString += member.Genre.GenreType.ToString() + ", ";
 }
 
+@foreach (var member in @Model.MoviePerson)
+{
+    name += $"{member.Person.FirstName}  {member.Person.LastName}";
+    bio = member.Person.Biography;
+}
 
 
 <div class="container body-content ">
     <h3>Movie Details</h3>
 
     <div class="products">
-        <div  id ="single-card" class="">
+        <div id="single-card" class="">
             <div class="half">
                 <img class="" src="~/images/Movies/movie-@(Model.Id).jpg" />
             </div>
             <div class="caption">
+                <div class="col-md-5"></div>
                 <h3>@Model.Title</h3>
-                <h7>@Genre</h7>
-                <h7>@Cast</h7>
-                <h7><strong>Release Date:</strong><br /> @Model.ReleaseDate.ToShortDateString()</h7>
+                <h7><strong>Genre: </strong>@genreString</h7>
+                <br />
+                <h7><strong>Cast:</strong> @name</h7>
+                <br />
+                <h7><strong>Bio:</strong> @bio</h7>
+                <br />
+                <h7><strong>Release Date: </strong>  @Model.ReleaseDate.ToShortDateString()</h7>
+                <br />
                 <h7><strong>Description:</strong><br /> @Model.Description </h7>
             </div>
         </div>
